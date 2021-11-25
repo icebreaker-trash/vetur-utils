@@ -1,0 +1,17 @@
+{
+  "compon-a": {
+    "attributes": [
+      "str",
+      "num",
+      "obj",
+      "func"
+    ],
+    "description": ""
+  },
+  "hello-world": {
+    "attributes": [
+      "msg"
+    ],
+    "description": ""
+  }
+}

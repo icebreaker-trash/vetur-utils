@@ -1,0 +1,22 @@
+{
+  "compon-a/str": {
+    "type": "string",
+    "description": ""
+  },
+  "compon-a/num": {
+    "type": "number",
+    "description": ""
+  },
+  "compon-a/obj": {
+    "type": "object",
+    "description": ""
+  },
+  "compon-a/func": {
+    "type": "func",
+    "description": ""
+  },
+  "hello-world/msg": {
+    "type": "string",
+    "description": ""
+  }
+}
